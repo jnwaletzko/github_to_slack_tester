@@ -1,7 +1,7 @@
 GIT
   remote: https://github.com/jnwaletzko/github_to_slack.git
-  revision: 54f9ecdcb23d9017eebee648bb1fd1decaa7f44e
-  branch: RemoveAllThethingsFromText
+  revision: 3254cc4b544db25f81d3fc6c48c6bfe78ad91ef4
+  branch: add_slack
   specs:
     github_to_slack (0.1.2)
       rails (>= 4.2.5)
