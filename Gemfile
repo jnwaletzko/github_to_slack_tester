@@ -24,7 +24,7 @@ gem 'turbolinks', '~> 5'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.5'
 
-gem 'github_to_slack', git: 'https://github.com/jnwaletzko/github_to_slack.git', branch: 'RemoveAllThethingsFromText'
+gem 'github_to_slack', git: 'https://github.com/jnwaletzko/github_to_slack.git', branch: 'add_slack'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
